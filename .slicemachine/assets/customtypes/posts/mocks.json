@@ -1,0 +1,74 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "birthday"
+  },
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "wrapped",
+    "type": "Text"
+  },
+  "subtitle": {
+    "__TYPE__": "FieldContent",
+    "value": "provide",
+    "type": "Text"
+  },
+  "author": {
+    "__TYPE__": "FieldContent",
+    "value": "double",
+    "type": "Text"
+  },
+  "banner": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869",
+      "width": 3199,
+      "height": 3199
+    },
+    "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869",
+    "width": 3199,
+    "height": 3199,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  },
+  "content": {
+    "__TYPE__": "GroupContentType",
+    "value": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "heading",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "happen",
+              "type": "Text"
+            }
+          ],
+          [
+            "body",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Tempor id magna amet aute irure ipsum magna laborum cupidatat veniam quis in nisi id tempor. Eiusmod in commodo sint labore ut eu in minim ullamco ex velit. Incididunt incididunt nulla mollit irure voluptate velit officia elit fugiat ad aliquip eu fugiat reprehenderit."
+                  }
+                }
+              ]
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

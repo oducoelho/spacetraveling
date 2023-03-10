@@ -4,6 +4,11 @@ $cor: red;
   height: 6rem;
   max-width: 700px;
   margin:0 auto;
+
+  .morePosts {
+    font-weight: bold;
+    color:var(--highlight);
+  }
   .post {
     h1 {
       font-size:1.75rem;

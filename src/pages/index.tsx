@@ -98,6 +98,7 @@ export default function Home() {
             </span>
           </div>
         </div>
+        <span className={styles.morePosts}>Carregar mais posts</span>
       </section>
     </>
   );
