@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "test": "jest --watchAll",
-    "coverage": "jest --coverage"
+    "coverage": "jest --coverage",
+    "slicemachine": "start-slicemachine"
   },
   "dependencies": {
     "@prismicio/client": "^6.4.3",
